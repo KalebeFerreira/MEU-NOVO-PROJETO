@@ -1,0 +1,13 @@
+.trabalhosRealizados {
+    padding: 2rem;
+    background-color: white;
+  }
+  
+  .trabalho {
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .trabalho img {
+    width: 300px;
+  }
